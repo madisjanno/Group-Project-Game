@@ -94,7 +94,7 @@ public class GUIDummyGameClient extends Application {
                             }
                             case "server_message": {
                                 String s = (String)ois.readObject();
-                                textDisplay.appendText(s);
+                                textDisplay.appendText("\n"+s);
                                 System.out.println(s);
                                 break;
                             }
