@@ -1,5 +1,21 @@
 # Group-Project-Game
 
-27.03.2016
-  - Updated the project to fit Maven Format. GameServer.java and DummuGameClient.java need fixing.
-  - Added a documentation with a plan of how the project should look like.
+Pärisajas mäng
+
+TODO: Etapp 2
+
+Andmestruktuurid:
+-Character
+-Status
+-Skill
+-Buff
+
+Mänguloogika serveris
+
+Andmeside:
+-Server->Client
+--mänguseis
+-Client->Server
+--käsud
+
+Animatsioonid kliendis
