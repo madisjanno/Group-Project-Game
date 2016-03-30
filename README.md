@@ -1,21 +1,5 @@
 # Group-Project-Game
 
-Pärisajas mäng
+1v1 exciting realtime combat! Use powerful skills and abilities to crush your opponent!
 
-TODO: Etapp 2
-
-Andmestruktuurid:
--Character
--Status
--Skill
--Buff
-
-Mänguloogika serveris
-
-Andmeside:
--Server->Client
---mänguseis
--Client->Server
---käsud
-
-Animatsioonid kliendis
+TODO: Everything.
